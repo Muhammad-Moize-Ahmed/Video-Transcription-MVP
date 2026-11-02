@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+.ipynb_checkpoints/
+
+# Large / generated files
+data/
+videos/
+chunks/
+outputs/
+models/
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.wav
+*.mp3
+chroma_db/
+qdrant_storage/
+*.gguf
+*.safetensors
+*.bin
+*.pt
